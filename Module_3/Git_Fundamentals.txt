@@ -1,0 +1,14 @@
+What is Git and how is it different from GitHub?
+Git is a version control system for tracking changes in computer files. It is used for coordinating work among several people on a project and tracking progress over time. It is used for source code management in software development. As the name suggests, a version control system is a system that records all the changes made to a file or set of files, so a specific version may be called later if needed. This helps in collaboration with all team members.
+
+GitHub on the other hand is a git repository hosting service, which provides a web based graphical interface. Github helps every team member to work together on the same project from anywhere and makes it easier to collaborate.
+
+Why do we use the Terminal?
+The terminal is the best way to interact with the computer you are using no matter the OS. It is in many ways the most precise,and most time efficient way to do your work as a person in Cyber Security. The same can be said for a Web Developer or anyone in a position of IT or Computer Networking. It takes a bit of time and patience to get familiar with the Terminal on a computer but the effort is well worth it in the end. As a matter of fact, just pushing your work up on GitHub requires a bit of knowledge in navigating the terminal to properly locate and use the required git commands to stage, commit and push your work up to GitHub. 
+
+From the terminal you can access and control every aspect of the computer you are using. Not to mention all of the tools you can use to scan the networks around you and use those tools to break into different computers around the world. There is so much power in learning how to use the terminal that it is an absolute must for anyone working in Tech to be comfortable and become familiar with it.
+
+Explain 3 benefits of version control in your own words.
+It helps in managing and protecting the source code. The system helps in management of the source code for the software team. It also protects the source code from any unintended human error and consequences
+It keeps track of all the modifications made to the code. 
+It can compare earlier versions of the code. This can be useful if earlier versions are needed to fix a bug or a problem that can be undone by using an earlier version that worked before the bug was introduced.
